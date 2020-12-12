@@ -9,4 +9,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soupCodez&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Kontrol](https://github-readme-stats.vercel.app/api/pin/?username=soupCodez&repo=kontrol-rebirthed)](https://github.com/soupCodez/kontrol-rebirthed)
+[![Kontrol](https://github-readme-stats.vercel.app/api/pin/?username=soupCodez&repo=coding-with-shunk)](https://github.com/soupCodez/kontrol-rebirthed)
