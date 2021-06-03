@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm soupCodez</h1>
 <h3 align="center">A hobbyist programmer who enjoys programming in his free time</h3>
 
-- 🔭 I’m currently working on **My Portfolio**
+- 🔭 I’m currently working on **Discord bots**
 
-- 🌱 I’m currently learning **React, TypeScript, SVG, socket.io**
+- 🌱 I’m currently learning **React, TypeScript, SVG, socket.io, Databases (sqlite/mySQL/guick.db)**
 
 - 👨‍💻 All of my projects are available at [soupcodez.github.io](soupcodez.github.io)
 
