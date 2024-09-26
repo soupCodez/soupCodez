@@ -2,10 +2,10 @@
   
   <br />
 
-- 🔭 I’m currently working on [Connectico](https://connectico.link)  
+- 🔭 I’m currently working on school  
   
 
-- 🌱 I’m currently learning Postgres and Java  
+- 🌱 I’m currently learning Java  
   
 
 <br/>  
