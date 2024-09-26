@@ -94,7 +94,7 @@
 
 <br/>  
 <div align="center">
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=xbf00s9mk8cmvcf28hfecoyli&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=xbf00s9mk8cmvcf28hfecoyli&redirect=true)
+<p><a href="https://spotify-github-profile.kittinanx.com/api/view?uid=xbf00s9mk8cmvcf28hfecoyli&amp;redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=xbf00s9mk8cmvcf28hfecoyli&amp;cover_image=true&amp;theme=default&amp;show_offline=false&amp;background_color=121212&amp;interchange=true" alt="spotify-github-profile"></a></p>
 </div>
 <br />
 
