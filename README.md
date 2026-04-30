@@ -90,13 +90,6 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=soupCodez&&style=flat-square" align="center" />
 </div>  
-  
-
-<br/>  
-<div align="center">
-<p><a href="https://spotify-github-profile.kittinanx.com/api/view?uid=xbf00s9mk8cmvcf28hfecoyli&amp;redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=xbf00s9mk8cmvcf28hfecoyli&amp;cover_image=true&amp;theme=default&amp;show_offline=false&amp;background_color=121212&amp;interchange=true" alt="spotify-github-profile"></a></p>
-</div>
-<br />
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
